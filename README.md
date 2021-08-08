@@ -28,9 +28,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![](./screenshot-desktop.png)
-
+Desktop:
+![Screenshot 2021-08-08 at 15-06-05 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/72547619/128624235-962e96e1-e109-4449-9b34-b8c8cfa4e80c.png)
+Mobile:
+![Screen Shot 2021-08-08 at 15 06 17](https://user-images.githubusercontent.com/72547619/128624233-2f52cc0a-575b-490d-a680-92d41fbe29cf.png)
 
 ## My process
 
